@@ -1,0 +1,23 @@
+type: carla
+split: val
+seq: output_1006/id75_m0_w1_s3_3/view2_side2
+seq_oppo: output_1006/id75_m0_w1_s3_3/view1
+root: /data/carla
+annots_root: /data/carla/annots_0731
+save_root: /data/pose/vis_carla_vis/gt_test0623
+use_cams: True
+# use_cams_oppo: True
+use_cams_oppo: False
+use_cams_gt: False
+# use_cams_oppo: False
+track_ids: "all"
+shot_idx: 0
+start_idx: 0
+end_idx: -1
+split_cameras: True
+name: ${data.seq}-${data.track_ids}-shot-${data.shot_idx}
+track_name: track_preds
+sources:
+  images: ${data.root}/${data.seq}
+img_size: 
+sel_img_paths:

@@ -1,0 +1,37 @@
+defaults:
+  - data: carla
+  - _self_
+
+
+overwrite: False
+run_opt: False
+run_vis: False
+vis:
+  phases:
+    - ground_truth
+  render_views:
+    # - src_cam
+    - above
+    # - side
+  save_frames: True
+  make_grid: True
+  overwrite: True
+  vis_kpts2d: True
+  vis_lidar: True
+  # accumulate: True
+
+paths:
+  smpl: _DATA/body_models/smplh/neutral/model.npz
+  smpl_kid: _DATA/body_models/smpl_kid_template.npy
+
+
+fps: 8
+log_root: /data/wangyc/pose/slahmr-main/outputs/logs
+log_dir: /data/wangyc/pose/slahmr-main/outputs/logs/carla-val_situations0125/ori_mainseqs
+exp_name: ${now:%Y-%m-%d}
+
+hydra:
+  job:
+    chdir: True
+  run:
+    dir: ${log_dir}/${data.name}
