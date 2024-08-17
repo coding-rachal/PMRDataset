@@ -6,7 +6,7 @@ PMR dataset is a large-scale, comprehensive dataset derived from an innovative m
 
 [[Project page]]() | [[Dataset]](https://pan.baidu.com/s/1ih57araefW_cb_D8H8WhOg?pwd=cc1t)
 
-**You can view the sampled sequence in the mini-version folder without download the large .zip files**
+**You can view the sampled sequence in the mini-version folder without download large .zip files**
 
 ## Overview
 <img src="./doc/teaser1.jpg">
@@ -15,7 +15,7 @@ PMR dataset is a large-scale, comprehensive dataset derived from an innovative m
 <img src="./doc/grid_result_full.gif">
 
 ## Dataset License/Download
-
+[[Baidu Drive]](https://pan.baidu.com/s/1ih57araefW_cb_D8H8WhOg?pwd=cc1t)
 ## Dataset Information
 PMR features a vast collection of data from 54 subjects interacting across 13 urban 
 settings with 7 objects, encompassing 12,138 sequences with diverse weather
