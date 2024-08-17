@@ -5,7 +5,8 @@ Official code respository for the paper "Pedestrian Motion Reconstruction: A Lar
 PMR dataset is a large-scale, comprehensive dataset derived from an innovative mixed reality platform that includes third-person perspective RGB videos from moving vehicles, LiDAR data from vehicles, and the egocentric perspective of pedestrians.
 
 [[Project page]]() | [Dataset](https://pan.baidu.com/s/1ih57araefW_cb_D8H8WhOg?pwd=cc1t) Extracted Code:cc1t
-** You can view the sampled sequence in the mini-version folder without download the large .zip files **
+
+**You can view the sampled sequence in the mini-version folder without download the large .zip files**
 
 ## Overview
 <img src="./doc/teaser1.jpg">
