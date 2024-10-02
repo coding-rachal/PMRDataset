@@ -1,4 +1,4 @@
-# Decoupling Human and Camera Motion from Videos in the Wild
+# Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities
 
 Official code respository for the paper "Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities".
 
