@@ -12,7 +12,7 @@ PMR dataset is a large-scale, comprehensive dataset derived from an innovative m
 <img src="./doc/teaser1.jpg">
 
 ## Rare Cases
-Our PMR dataset is known for complementing extrem scenarios for real-world datasets and exploring more about the pedestrian-vehicle interaction modes. Therefore, we show some rare cases for pedestrian-vehicle interactions here. For each case, we provide videos captured from two distinct vehicles. As alternative options, you can also view these example videos at ... or download them here(https://pan.baidu.com/s/1cBnYhDsfNrZMx8Gtp8HleA?pwd=32fy).
+Our PMR dataset is known for complementing extrem scenarios for real-world datasets and exploring more about the pedestrian-vehicle interaction modes. Therefore, we show some rare cases for pedestrian-vehicle interactions here. For each case, we provide videos captured from two distinct vehicles. As alternative options, you can also view these example videos at ... or download them [here](https://pan.baidu.com/s/1cBnYhDsfNrZMx8Gtp8HleA?pwd=32fy).
 
 #### (a) Two motorcycles collided with each other, and one of the falling motorcycles hit a pedestrian.
 
