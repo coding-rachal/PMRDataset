@@ -11,6 +11,8 @@ PMR dataset is a large-scale, comprehensive dataset derived from an innovative m
 ## Overview
 <img src="./doc/teaser1.jpg">
 
+## Rare Cases
+
 ## Visualization Example
 <img src="./doc/grid_result_full.gif">
 
