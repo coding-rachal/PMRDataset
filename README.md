@@ -12,6 +12,7 @@ PMR dataset is a large-scale, comprehensive dataset derived from an innovative m
 <img src="./doc/teaser1.jpg">
 
 ## Rare Cases
+Our PMR dataset is known for complementing extrem scenarios for real-world datasets and exploring more about the pedestrian-vehicle interaction modes. Therefore, we show some rare cases for pedestrian-vehicle interactions here. For each case, we provide videos captured from two distinct vehicles. As alternative options, you can also view these example videos at ... or download them on 
 #### (a) Two motorcycles collided with each other, and one of the falling motorcycles hit a pedestrian.
 
 https://github.com/user-attachments/assets/66779523-afaf-4455-bbbd-79d33590b77b
@@ -24,13 +25,13 @@ https://github.com/user-attachments/assets/e703d38d-fe00-4677-ae23-f9121fa8bc1e
 
 https://github.com/user-attachments/assets/e354301a-cbd0-4b08-9f24-00a9793eedcd
 
-(c) A pedestrian witnessed a collision two cars.
+#### (c) A pedestrian witnessed a collision two cars.
 
 https://github.com/user-attachments/assets/0cad1aa6-1c45-420e-837a-395de1162fd7
 
 https://github.com/user-attachments/assets/f6b164cb-3861-4f65-a3a1-2e936f452ac0
 
-(d) A moving vehicle hit a pedestrian due to careless driving.
+#### (d) A moving vehicle hit a pedestrian due to careless driving.
 
 https://github.com/user-attachments/assets/bb3953b9-c891-41bf-b71b-d357e482474f
 
