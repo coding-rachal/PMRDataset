@@ -12,11 +12,16 @@ PMR dataset is a large-scale, comprehensive dataset derived from an innovative m
 <img src="./doc/teaser1.jpg">
 
 ## Rare Cases
+(a) Two motorcycles collided with each other, and one of the falling motorcycles hit the pedestrian.
 https://github.com/user-attachments/assets/66779523-afaf-4455-bbbd-79d33590b77b
 
 https://github.com/user-attachments/assets/2de7f812-b5eb-444f-9ce3-c676e7c44c1d
 
-(a) Two motorcycles collided with each other, and one of the falling motorcycles hit the pedestrian.
+(b)
+
+https://github.com/user-attachments/assets/e703d38d-fe00-4677-ae23-f9121fa8bc1e
+
+https://github.com/user-attachments/assets/e354301a-cbd0-4b08-9f24-00a9793eedcd
 
 https://github.com/user-attachments/assets/bb3953b9-c891-41bf-b71b-d357e482474f
 
