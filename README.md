@@ -37,6 +37,12 @@ https://github.com/user-attachments/assets/bb3953b9-c891-41bf-b71b-d357e482474f
 
 https://github.com/user-attachments/assets/3414382c-ec48-467c-8d0a-2a727c482b53
 
+#### (e) A pedestrian followed and harassed the vehicle.
+
+https://github.com/user-attachments/assets/f6b164cb-3861-4f65-a3a1-2e936f452ac0
+
+https://github.com/user-attachments/assets/eb52ea38-9715-418f-ba6a-3e485530969a
+
 ## Visualization Example
 <img src="./doc/grid_result_full.gif">
 
